@@ -1,4 +1,4 @@
-# MLOps Zoomcamp
+# MLOps Zoomcamp - Rangel
 
 <p align="center">
   <a href="https://airtable.com/shrCb8y6eTbPKwSTL" target="_blank">
